@@ -1,165 +1,140 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Atta+Ur+Rahman+👋;Backend+%26+AI+Engineer+🤖;LLM+Fine-Tuning+%7C+RAG+%7C+Automation;Building+the+Future+with+AI+🚀)](https://git.io/typing-svg)
+# Atta Ur Rahman 👋
+
+### Backend & AI Engineer | RAG | LLMs | Automation | Scalable Systems
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Backend+%26+AI+Engineer;Building+Production+Grade+AI+Systems;RAG+%7C+LLMs+%7C+Automation+%7C+Cloud;Python+%7C+FastAPI+%7C+Flask+%7C+Docker" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Atta4&color=00D9FF&style=flat-square&label=Profile+Views)](https://github.com/Atta4)
-[![GitHub followers](https://img.shields.io/github/followers/Atta4?label=Followers&style=flat-square&color=00D9FF)](https://github.com/Atta4)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/atta-ur-rahman-4b89002b4)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:attaur54rahman@gmail.com)
+<a href="https://github.com/Atta4">
+  <img src="https://komarev.com/ghpvc/?username=Atta4&color=0e75b6&style=flat" />
+</a>
+
+<a href="https://github.com/Atta4?tab=followers">
+  <img src="https://img.shields.io/github/followers/Atta4?label=Followers&style=flat&color=blue" />
+</a>
+
+<a href="https://linkedin.com/in/atta-ur-rahman-4b89002b4">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+</a>
+
+<a href="mailto:attaur54rahman@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 🚀 About Me
 
-```python
-class AttaUrRahman:
-    def __init__(self):
-        self.name        = "Atta Ur Rahman"
-        self.role        = "Backend & AI Engineer"
-        self.experience  = "4+ Years"
-        self.location    = "Jeddah, Saudi Arabia"
-        self.email       = "attaur54rahman@gmail.com"
-        self.phone       = "+966567988562"
-        self.languages   = ["English (C1)", "Urdu (C1)", "Punjabi (C1)"]
+Backend & AI Engineer with experience building scalable AI systems, automation platforms, and production-grade backend architectures.
 
-    def specializations(self):
-        return [
-            "🤖 LLM Fine-Tuning (Unsloth, LoRA/QLoRA)",
-            "🔍 Retrieval-Augmented Generation (RAG)",
-            "⚙️  Scalable Backend Architectures",
-            "☁️  Cloud Deployments (AWS, GCP, Azure)",
-            "🕷️  Automation & Scraping Pipelines",
-            "🏠  Local LLM Deployment with Ollama",
-        ]
+I specialize in:
 
-    def current_focus(self):
-        return "Building production-grade AI systems & agentic pipelines"
+- 🤖 LLM Fine-Tuning (LoRA / QLoRA / Unsloth)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI, Flask & scalable backend systems
+- ☁️ AWS, GCP & Azure deployments
+- 🧠 AI Agents & automation workflows
+- 🗄️ Vector databases & semantic search
+- 🕷️ Web scraping & large-scale data pipelines
 
-me = AttaUrRahman()
-```
+Currently focused on building intelligent AI systems for healthcare, fintech, and enterprise automation.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 🔙 Backend & Languages
+## Backend & APIs
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 🤖 AI / ML
-![LLM](https://img.shields.io/badge/LLM_Fine--Tuning-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama_Local_LLM-1C1C1C?style=for-the-badge&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+## AI / LLM Engineering
 
-### 🗄️ Databases
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge)
+
+## Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Google Spanner](https://img.shields.io/badge/Google_Spanner-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+## Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### 🕷️ Automation & Scraping
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
-## 💼 Work Experience
+# 💼 Experience
 
-| Role | Company | Highlights |
-|------|---------|-----------|
-| 🏥 **Python Developer** | BlueHealth, Lahore | Healthcare automation, LLM fine-tuning with Unsloth, on-premise Ollama deployment |
-| 🤖 **AI Engineer** | Bottom Code, Lahore | Generative AI medical assistant, StallaeAI hotel system, Twilio calling agents |
-| 🏏 **Backend & AI Engineer** | Crickslab & Cadnz, Lahore | RAG chatbot (GPT-4 + LLaMA + Pinecone), OCR/KYC pipelines, LLM fine-tuning |
-| 💼 **Backend & DevOps Engineer** | OHS CRM, Lahore | Multi-tenant CRM, RAG chatbot, encrypted messaging, AWS + Docker CI/CD |
-| 📱 **Software Engineer** | Taqwa Assistance, Lahore | Flask + Flutter system, Firebase, Google Maps, JWT auth |
-| 🌐 **AI Engineer (Freelance)** | Inartia, Lahore | ML automation workflows, large-scale data extraction pipelines |
+### 🏥 BlueHealth
+Built healthcare automation systems, AI workflows, LLM integrations, and backend services for production environments.
 
----
+### 🤖 Bottom Code
+Worked on AI-powered assistants, Twilio calling agents, and enterprise automation solutions.
 
-## 🎓 Education & Certifications
-
-🎓 **BS Software Engineering** — Riphah International University, Lahore, Pakistan
-
-📜 **Certifications** (Coursera):
-- ✅ Backend Development
-- ✅ Artificial Intelligence & Machine Learning
-- ✅ Cloud Technologies (AWS, GCP, Azure)
-- ✅ DevOps & CI/CD
+### 🏏 Crickslab & Cadnz
+Developed RAG chatbots, OCR pipelines, AI data extraction systems, and scalable APIs.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Atta4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atta4&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Atta4&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atta4&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Atta4&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Atta4&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🔥 Current Focus
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Atta4&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🔥 What I'm Currently Working On
-
-- 🧠 Building **Agentic AI pipelines** with multi-step reasoning & tool use
-- 🔧 Fine-tuning **LLaMA / Mistral / Phi** models with Unsloth (LoRA/QLoRA)
-- 🏗️ Designing **scalable RAG architectures** for enterprise healthcare & fintech
-- 🏠 Deploying **local LLMs** with Ollama for privacy-first, cost-efficient AI
+- Agentic AI Systems
+- Multi-Agent Workflows
+- Production RAG Architectures
+- Financial AI Pipelines
+- LLM Fine-Tuning
+- Enterprise Automation
 
 ---
 
-## 📫 Let's Connect
+# 🌍 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atta-ur-rahman-4b89002b4)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atta4)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attaur54rahman@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923090907706)
+<a href="https://linkedin.com/in/atta-ur-rahman-4b89002b4">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:attaur54rahman@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Atta4">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
@@ -167,10 +142,6 @@ me = AttaUrRahman()
 
 <div align="center">
 
-### 💬 *"Building the bridge between cutting-edge AI and real-world production systems."*
-
-⭐ **If you find my work useful, drop a star on my repositories!** ⭐
-
-![Snake animation](https://github.com/Atta4/Atta4/blob/output/github-contribution-grid-snake-dark.svg)
+### ⚡ Building scalable AI systems for real-world problems
 
 </div>
