@@ -71,7 +71,7 @@ Cloud & DevOps:
   - Azure
   - CI/CD Pipelines
   - Nginx & Deployment Automation
-
+```
 ---
 
 ## 🛠️ Tech Stack
