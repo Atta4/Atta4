@@ -3,23 +3,11 @@
 <!-- Animated Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Atta+Ur+Rahman+👋;Backend+%26+AI+Engineer+🤖;LLM+Fine-Tuning+%7C+RAG+%7C+Automation;Building+the+Future+with+AI+🚀)](https://git.io/typing-svg)
 
-<br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Atta4&color=00D9FF&style=flat-square&label=Profile+Views)](https://github.com/Atta4)
-[![GitHub followers](https://img.shields.io/github/followers/Atta4?label=Followers&style=flat-square&color=00D9FF)](https://github.com/Atta4)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/atta-ur-rahman-4b89002b4)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:attaur54rahman@gmail.com)
 
 </div>
 
 ---
-
-<div align="center">
-
-# Atta Ur Rahman
-
-### Senior AI & Data Engineer | Backend Architect | LLMs • RAG • Fintech • Automation
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Senior+AI+%26+Data+Engineer;Building+Scalable+AI+%26+Data+Platforms;LLMs+%7C+RAG+%7C+Agentic+AI+%7C+Fintech;FastAPI+%7C+Python+%7C+Cloud+%7C+Automation;Designing+Production+Grade+Systems" />
 
 <br/>
