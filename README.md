@@ -1,16 +1,9 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Atta+Ur+Rahman+👋;Backend+%26+AI+Engineer+🤖;LLM+Fine-Tuning+%7C+RAG+%7C+Automation;Building+the+Future+with+AI+🚀)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Atta+Ur+Rahman+👋;Senior+AI+%26+Data+Engineer;Building+Scalable+AI+%26+Data+Platforms;LLMs+%7C+RAG+%7C+Agentic+AI+%7C+Fintech;FastAPI+%7C+Python+%7C+Cloud+%7C+Automation;Designing+Production+Grade+Systems;Building+the+Future+with+AI+🚀)](https://git.io/typing-svg)
 
 </div>
-
----
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Senior+AI+%26+Data+Engineer;Building+Scalable+AI+%26+Data+Platforms;LLMs+%7C+RAG+%7C+Agentic+AI+%7C+Fintech;FastAPI+%7C+Python+%7C+Cloud+%7C+Automation;Designing+Production+Grade+Systems" />
-
-<br/>
 
 <a href="https://github.com/Atta4">
   <img src="https://img.shields.io/badge/GitHub-Atta4-111111?style=for-the-badge&logo=github" />
@@ -150,32 +143,7 @@ Cloud & DevOps:
 - ✅ Cloud Technologies (AWS, GCP, Azure)
 - ✅ DevOps & CI/CD
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Atta4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atta4&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Atta4&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Atta4&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
