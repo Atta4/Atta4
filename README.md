@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 # Atta Ur Rahman
@@ -214,7 +214,3 @@ class CurrentFocus:
 ### “Building intelligent systems that solve real-world problems.”
 
 </div>
-```
-
-Ya wala zyada clean, senior-level aur professional lagay ga.
-Is ma unnecessary GitHub stats hata diya, aur tumhari actual profile ko strong engineering positioning di ha — especially AI + Fintech + Data Engineering side.
