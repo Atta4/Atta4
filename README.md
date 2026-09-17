@@ -5,6 +5,10 @@
 
 </div>
 
+<a href="https://atta-ur-rahman.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-atta--ur--rahman.vercel.app-4338CA?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 <a href="https://github.com/Atta4">
   <img src="https://img.shields.io/badge/GitHub-Atta4-111111?style=for-the-badge&logo=github" />
 </a>
@@ -35,6 +39,8 @@ Currently working in the fintech sector at **Blomal** where I design and build:
 
 I enjoy solving real-world engineering problems with a strong focus on:
 **performance, scalability, maintainability, and clean architecture.**
+
+📂 **[Read the full case studies →](https://atta-ur-rahman.vercel.app/work)** — fifteen production systems across fintech, healthcare, sports media and SaaS, each written up with the problem, the architecture and what it actually shipped.
 
 ---
 
@@ -122,14 +128,17 @@ Cloud & DevOps:
 
 ## 💼 Work Experience
 
-| Role | Company | Highlights |
-|------|---------|-----------|
-| 🏥 **Python Developer** | BlueHealth, Lahore | Healthcare automation, LLM fine-tuning with Unsloth, on-premise Ollama deployment |
-| 🤖 **AI Engineer** | Bottom Code, Lahore | Generative AI medical assistant, StallaeAI hotel system, Twilio calling agents |
-| 🏏 **Backend & AI Engineer** | Crickslab & Cadnz, Lahore | RAG chatbot (GPT-4 + LLaMA + Pinecone), OCR/KYC pipelines, LLM fine-tuning |
-| 💼 **Backend & DevOps Engineer** | OHS CRM, Lahore | Multi-tenant CRM, RAG chatbot, encrypted messaging, AWS + Docker CI/CD |
-| 📱 **Software Engineer** | Taqwa Assistance, Lahore | Flask + Flutter system, Firebase, Google Maps, JWT auth |
-| 🌐 **AI Engineer (Freelance)** | Inartia, Lahore | ML automation workflows, large-scale data extraction pipelines |
+| Role | Company | Period | Highlights |
+|------|---------|--------|-----------|
+| 📈 **Senior AI & Data Engineer** | Blomal Capital, Jeddah 🇸🇦 | Jan 2026 – Present | Saudi capital-markets data platform, AI research assistant over it, governed read-only SQL layer, sector-rotation engine |
+| 💼 **Backend & DevOps Engineer** | OHS CRM, Lahore | Feb 2025 – May 2025 | Multi-tenant CRM, RAG chatbot, encrypted messaging, AWS + Docker CI/CD |
+| 🏥 **Python Developer** | Orange Tree Systems *(formerly BlueHealth)*, Lahore | Dec 2024 – Jan 2026 | Autonomous outbound calling agent for US pharmacy prior-authorizations (300–400 calls/day over Twilio), on-premise Mistral, HIPAA |
+| 🤖 **AI Engineer** | Bottom Code, Lahore | Aug 2024 – Aug 2025 | Generative AI medical assistant, chest X-ray AI system, Stellae AI hotel platform |
+| 🌐 **AI Engineer / Backend Developer** | Inartia, Remote | Jan 2024 – Aug 2024 | ERP automation, ML workflows, large-scale data extraction pipelines |
+| 🏏 **Backend Developer / AI Engineer** | Crickslab & Cadnz, Lahore | Jun 2022 – Jun 2024 | Ball-by-ball cricket video clipping; OCR and PDF extraction feeding KYC workflows |
+| 📱 **Software Engineer** | Taqwa Assistance, Lahore | Feb 2021 – Feb 2022 | Flask + Flutter system, Firebase, Google Maps, JWT auth |
+
+<sub>Orange Tree Systems and Bottom Code overlap: Orange Tree ran US pharmacy hours as a night shift alongside the daytime role at Bottom Code.</sub>
 
 ---
 
@@ -164,6 +173,7 @@ Cloud & DevOps:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atta4)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attaur54rahman@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923090907706)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4338CA?style=for-the-badge&logo=vercel&logoColor=white)](https://atta-ur-rahman.vercel.app)
 
 </div>
 
